@@ -1,5 +1,2 @@
 [agent]
-172.31.20.100
-
-[agent:vars]
-ansible_user=pooja
+172.31.20.100 ansible_user=pooja ansible_password=pooja
