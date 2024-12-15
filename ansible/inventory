@@ -1,2 +1,2 @@
 [agent]
-172.31.20.100 ansible_user=pooja ansible_password=pooja ansible_connection=ssh
+172.31.20.100 ansible_user=pooja ansible_password=pooja
